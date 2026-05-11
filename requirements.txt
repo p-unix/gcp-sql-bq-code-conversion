@@ -1,0 +1,9 @@
+flask>=3.1
+openpyxl>=3.1
+google-auth>=2.50
+google-auth-httplib2>=0.3
+requests>=2.33
+sqlglot>=30.7
+rapidfuzz>=3.14
+google-cloud-bigquery>=3.41
+python-dotenv>=1.0
